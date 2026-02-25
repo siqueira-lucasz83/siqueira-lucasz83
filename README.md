@@ -47,7 +47,7 @@
 <a href="https://www.linkedin.com/in/lucas-siqueira-4600aa370/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
-<a href="83siqueirinha@gmail.com" target="_blank">
+<a href="mailto:83siqueirinha@gmail.com?subject=Contato%20Profissional&body=Olá%20Lucas,%0A%0AVi%20seu%20perfil%20e%20gostaria%20de%20conversar%20sobre%20uma%20possível%20oportunidade.%0A%0AFico%20no%20aguardo.%0A%0AAtenciosamente," target="_blank">
   <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://www.instagram.com/siqueira_lucasz" target="_blank">
