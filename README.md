@@ -11,6 +11,7 @@
 ##  Formação acadêmica
 
 -  **3 semestres de Gestão da Tecnologia da Informação (GTI)** — *Fatec*  
+-  **Continuando os estudos de Gestão da Tecnologia da Informação (GTI)** - *Cruzeiro do Sul*
 -  **Cursando Engenharia da Computação** — *Univesp*
 
 ---
@@ -45,5 +46,11 @@
 <div> 
 <a href="https://www.linkedin.com/in/lucas-siqueira-4600aa370/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+<a href="83siqueirinha@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.instagram.com/siqueira_lucasz" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 </div>
